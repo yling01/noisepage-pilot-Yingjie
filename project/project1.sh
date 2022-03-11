@@ -4,7 +4,7 @@
 # TODO(Matt): Update student list.
 # Define all the students, format is "git_url,andrew_id".
 STUDENTS=(
-  'git@github.com:lmwnshn/S22-15799.git,wanshenl'
+  'git@github.com:yling01/15799-project1.git,yling2'
 )
 
 # TODO(Matt): Update benchmark list with workloads.
